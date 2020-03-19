@@ -1,0 +1,8 @@
+.navBar {
+    background-color: lightcoral;
+    height: 100px;
+    width: 800px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}

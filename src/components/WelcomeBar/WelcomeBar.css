@@ -1,0 +1,17 @@
+.welcomeBar {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
+
+.barOne {
+    background-color: blue;
+    width: 400px;
+    height: 100px;
+}
+
+.barTwo {
+    background-color: lightblue;
+    width: 200px;
+    height: 100px;
+}
