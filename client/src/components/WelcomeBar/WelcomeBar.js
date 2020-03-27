@@ -9,7 +9,7 @@ class WelcomeBar extends Component {
                 <h1 className="headerText">The Product Management Intern</h1>
               </div>
               <div className="barTwo">
-                <p>How to get a product management internship and what they are like</p>
+                <h3 className="subHeaderText">How to get a product management internship and what they are like</h3>
               </div>
             </div>
           );

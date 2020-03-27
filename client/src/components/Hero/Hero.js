@@ -6,7 +6,9 @@ class Hero extends Component {
     return (
       <div className="hero">
         <h1>{this.props.postTitle}</h1>
-        <p>postText is: {this.props.postText}</p>
+        <p>
+          TLDR: I applied to 60 diffrent PM internships.
+        </p>
       </div>
     );
   }
